@@ -23,4 +23,5 @@ Aplikasi e-commerce sederhana untuk toko makanan dengan fitur lengkap.
 1. Clone repository ini:
 ```bash
 
-git clone [https://github.com/ginakhoerunnisa1210-cloud/lokamart].git
+git clone https://github.com/ginakhoerunnisa1210-cloud/lokamart.git
+
